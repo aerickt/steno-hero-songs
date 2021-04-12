@@ -1,2 +1,2 @@
-# steno-hero-songs
+# Steno Hero Songs
 Songs for Steno Hero.
