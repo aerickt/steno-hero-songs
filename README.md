@@ -1,5 +1,5 @@
 # Steno Hero Songs
-Various songs I have made lrc files for using [wavelyric](https://timothyaveni.com/wavelyric/).
+Various songs I have made lrc files for. I used [wavelyric](https://timothyaveni.com/wavelyric/) for all of these.
 | YouTube Link | Artist | Difficulty | Notes |
 | ----------------------- | ------------------------- | ----- | ------- |
 | [Ode To The Mets](https://youtu.be/LNq4xox99HY) | The Strokes | Easy | |
