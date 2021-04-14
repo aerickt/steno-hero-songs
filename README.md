@@ -1,2 +1,30 @@
 # Steno Hero Songs
-Songs for Steno Hero.
+Various songs I have made lrc files for using [wavelyric](https://timothyaveni.com/wavelyric/).
+| YouTube Link | Artist | Difficulty | Notes |
+| ----------------------- | ------------------------- | ----- | ------- |
+| [New Year's Day](https://youtu.be/vdLuk2Agamk) | U2 | Easy | Not a lot of vocals |
+| [Ode To The Mets](https://youtu.be/LNq4xox99HY) | The Strokes | Easy | 
+| [Sunday Bloody Sunday](https://youtu.be/CkeDjLZMRRk) | U2 | Easy || [Bloody Sunday](https://en.wikipedia.org/wiki/Bloody_Sunday_(1972)) 
+| [Additional Memory](https://youtu.be/2MdItMhbz_Y) | Jin (English cover by Jubyphonic | Normal |
+| [Don't Look Back in Anger](https://youtu.be/cmpRLQZkTb8) | Oasis | Normal |
+| [Good Years]() | ZAYAN | Normal |
+| [Ikanaide](https://youtu.be/fSCwqCsSK1g) | Sohta (English cover by Jubyphonic) | Normal |
+| [Love Trial](https://youtu.be/68wFpO8oeM4) | 40meterP (English cover by Jubyphonic | Normal |
+| [Sarishinohara](https://youtu.be/0xBIJdsWLdc) | Mkikito-P (English cover by Rachie) | Normal |
+| [She's Electric](https://youtu.be/h9JZWhjQDvc) | Oasis | Normal |
+| [Wonderwall](https://youtu.be/sYffFEIAzdE) | Oasis | Normal |
+| [Bloom and Cry Roaring Flower](https://youtu.be/paYGk-CxRxM) | Overidea (English cover by Jubyphonic) | Hard | 
+| [Charles](https://youtu.be/-vOGY-XnTfM) | Balloon (English cover by Jubyphonic | Hard | 
+| [Failure Girl](https://youtu.be/Myh3uW8KhAw) | Kairiki Bear (English cover by Jubyphonic) | Hard | 
+| [Lemon](https://youtu.be/ZXvY6NMoc78) | Kenshi Yonezu (English cover by Jubyphonic) | Hard | 
+| [Lost One's Weeping](https://youtu.be/nZHXSN6lEEw) | Neru (English cover by Jubyphonic) | Hard | Lyrics reference depression |
+| [Lost Time Memory](https://youtu.be/LKrP_fu4m0s) | Jin (English cover by Jubyphonic) | Hard | 
+| [My R](https://youtu.be/AOV2c0TiPpI) | Kurage (English cover by Rachie) | Hard | Contains references to suicide |
+| [Never Lost word](https://youtu.be/w_FjPxJF0oc) | Jin (English cover by Jubyphonic) | Hard | 
+| [Tokyo Teddy Bear](https://youtu.be/MW2lEOvFrBE) | Neru (English cover by Jubyphonic | Hard |
+| [Women Like Me](https://youtu.be/oOs8g8TIKrQ) | Little Mix, Ft. Nicki Minaj | Hard | Contains some swearing |
+| [Lone Digger](https://youtu.be/UbQgXeY_zi4) | Caravan Palace | Very Hard | Music video is slightly NSFW |
+| [Outer Science](https://youtu.be/-PgOrF3zD7o) | Jin (English cover by Jubyphonic) | Very Hard | Slightly gorey lyrics |
+| [Two Faced Lovers](https://youtu.be/fuYunscI8eE) | Wowaka (English cover by Airah Tea) | Very Hard | Lyrics have sensitive references |
+
+You can download the lrc file from this repo and then you'll have to obtain a copy of the song in OGG format. Place the lrc file in `Steno Arcade/Steno Hero/Songs/` and the OGG file in `Steno Arcade/Steno Hero/Songs/Audio`.
