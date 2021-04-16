@@ -8,12 +8,12 @@ Various songs I have made lrc files for. I used [wavelyric](https://timothyaveni
 | [Love Trial](https://youtu.be/68wFpO8oeM4) | 40meterP (English cover by Jubyphonic | Normal ||
 | [Additional Memory](https://youtu.be/2MdItMhbz_Y) | Jin (English cover by Jubyphonic) | Normal ||
 | [Sarishinohara](https://youtu.be/0xBIJdsWLdc) | Mkikito-P (English cover by Rachie) | Normal ||
+| [Yonjuunana](https://youtu.be/IFsV8_2Mzsc) | Mikito-P (English cover by Jubyphonic) | Normal ||
 | [Don't Look Back in Anger](https://youtu.be/cmpRLQZkTb8) | Oasis | Normal ||
 | [She's Electric](https://youtu.be/h9JZWhjQDvc) | Oasis | Normal ||
 | [Wonderwall](https://youtu.be/sYffFEIAzdE) | Oasis | Normal ||
 | [Ikanaide](https://youtu.be/fSCwqCsSK1g) | Sohta (English cover by Jubyphonic) | Normal ||
 | [Good Years](https://youtu.be/EB32NhsQGJA) | ZAYAN | Normal ||
-| [Yonjuunana](https://youtu.be/IFsV8_2Mzsc) | Mikito-P (English cover by Jubyphonic) | Normal | |
 | [Charles](https://youtu.be/-vOGY-XnTfM) | Balloon (English cover by Jubyphonic | Hard | |
 | [Lost Time Memory](https://youtu.be/LKrP_fu4m0s) | Jin (English cover by Jubyphonic) | Hard | |
 | [Never Lost word](https://youtu.be/w_FjPxJF0oc) | Jin (English cover by Jubyphonic) | Hard | |
