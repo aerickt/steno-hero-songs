@@ -12,7 +12,8 @@ Various songs I have made lrc files for. I used [wavelyric](https://timothyaveni
 | [She's Electric](https://youtu.be/h9JZWhjQDvc) | Oasis | Normal ||
 | [Wonderwall](https://youtu.be/sYffFEIAzdE) | Oasis | Normal ||
 | [Ikanaide](https://youtu.be/fSCwqCsSK1g) | Sohta (English cover by Jubyphonic) | Normal ||
-| [Good Years]() | ZAYAN | Normal ||
+| [Good Years](https://youtu.be/EB32NhsQGJA) | ZAYAN | Normal ||
+| [Yonjuunana](https://youtu.be/IFsV8_2Mzsc) | Mikito-P (English cover by Jubyphonic) | Normal | |
 | [Charles](https://youtu.be/-vOGY-XnTfM) | Balloon (English cover by Jubyphonic | Hard | |
 | [Lost Time Memory](https://youtu.be/LKrP_fu4m0s) | Jin (English cover by Jubyphonic) | Hard | |
 | [Never Lost word](https://youtu.be/w_FjPxJF0oc) | Jin (English cover by Jubyphonic) | Hard | |
