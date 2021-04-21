@@ -12,8 +12,8 @@ Various songs I have made lrc files for. I used [wavelyric](https://timothyaveni
 | [Don't Look Back in Anger](https://youtu.be/cmpRLQZkTb8) | Oasis | Normal ||
 | [She's Electric](https://youtu.be/h9JZWhjQDvc) | Oasis | Normal ||
 | [Wonderwall](https://youtu.be/sYffFEIAzdE) | Oasis | Normal ||
-| [Patchwork Staccato](https://youtu.be/elC2uKfEKbg) | Toa (Covery by Jubyphonic) | Normal | |
 | [Ikanaide](https://youtu.be/fSCwqCsSK1g) | Sohta (Cover by Jubyphonic) | Normal ||
+| [Patchwork Staccato](https://youtu.be/elC2uKfEKbg) | Toa (Cover by Jubyphonic) | Normal | |
 | [Good Years](https://youtu.be/EB32NhsQGJA) | ZAYAN | Normal ||
 | [Charles](https://youtu.be/-vOGY-XnTfM) | Balloon (Cover by Jubyphonic) | Hard | |
 | [Lost Time Memory](https://youtu.be/LKrP_fu4m0s) | Jin (Cover by Jubyphonic) | Hard | |
