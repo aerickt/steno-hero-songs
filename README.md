@@ -5,7 +5,7 @@ Various songs I have made lrc files for. I used [wavelyric](https://timothyaveni
 | [Ode To The Mets](https://youtu.be/LNq4xox99HY) | The Strokes | Easy | |
 | [New Year's Day](https://youtu.be/vdLuk2Agamk) | U2 | Easy | Not a lot of vocals|
 | [Sunday Bloody Sunday](https://youtu.be/CkeDjLZMRRk) | U2 | Easy | [Bloody Sunday](https://en.wikipedia.org/wiki/Bloody_Sunday_(1972)) |
-| [Love Trial](https://youtu.be/68wFpO8oeM4) | 40meterP (Cover by Jubyphonic | Normal ||
+| [Love Trial](https://youtu.be/68wFpO8oeM4) | 40meterP (Cover by Jubyphonic) | Normal ||
 | [Additional Memory](https://youtu.be/2MdItMhbz_Y) | Jin (Cover by Jubyphonic) | Normal ||
 | [Sarishinohara](https://youtu.be/0xBIJdsWLdc) | Mkikito-P (Cover by Rachie) | Normal ||
 | [Yonjuunana](https://youtu.be/IFsV8_2Mzsc) | Mikito-P (Cover by Jubyphonic) | Normal ||
@@ -15,7 +15,7 @@ Various songs I have made lrc files for. I used [wavelyric](https://timothyaveni
 | [Patchwork Staccato](https://youtu.be/elC2uKfEKbg) | Toa (Covery by Jubyphonic) | Normal | |
 | [Ikanaide](https://youtu.be/fSCwqCsSK1g) | Sohta (Cover by Jubyphonic) | Normal ||
 | [Good Years](https://youtu.be/EB32NhsQGJA) | ZAYAN | Normal ||
-| [Charles](https://youtu.be/-vOGY-XnTfM) | Balloon (Cover by Jubyphonic | Hard | |
+| [Charles](https://youtu.be/-vOGY-XnTfM) | Balloon (Cover by Jubyphonic) | Hard | |
 | [Lost Time Memory](https://youtu.be/LKrP_fu4m0s) | Jin (Cover by Jubyphonic) | Hard | |
 | [Never Lost word](https://youtu.be/w_FjPxJF0oc) | Jin (Cover by Jubyphonic) | Hard | |
 | [Failure Girl](https://youtu.be/Myh3uW8KhAw) | Kairiki Bear (Cover by Jubyphonic) | Hard | |
