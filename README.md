@@ -12,12 +12,12 @@ Various songs I have made lrc files for. I used [wavelyric](https://timothyaveni
 | [Wonderwall](https://youtu.be/sYffFEIAzdE) | Oasis | Normal ||
 | [Ikanaide](https://youtu.be/fSCwqCsSK1g) | Sohta (English cover by Jubyphonic) | Normal ||
 | [Good Years](https://youtu.be/EB32NhsQGJA) | ZAYAN | Normal ||
-|[Yonjuunana](https://youtu.be/IFsV8_2Mzsc)|Mikito-P (English cover by Jubyphonic| Normal||
-|[Patchwork Staccato](https://youtu.be/elC2uKfEKbg)|Toa (Cover by Jubyphonic)| Normal||
+| [Yonjuunana](https://youtu.be/IFsV8_2Mzsc)|Mikito-P (English cover by Jubyphonic| Normal||
+| [Patchwork Staccato](https://youtu.be/elC2uKfEKbg)|Toa (Cover by Jubyphonic)| Normal||
 | [Charles](https://youtu.be/-vOGY-XnTfM) | Balloon (English cover by Jubyphonic | Hard | |
 | [Lost Time Memory](https://youtu.be/LKrP_fu4m0s) | Jin (English cover by Jubyphonic) | Hard | |
 | [Never Lost word](https://youtu.be/w_FjPxJF0oc) | Jin (English cover by Jubyphonic) | Hard | |
-|[Venom](https://youtu.be/1JG93nbIL8Y)| Kairiki Bear (English cover by Jubyphonic)|Hard| Somewhat edgy Lyrics|
+| [Venom](https://youtu.be/1JG93nbIL8Y)| Kairiki Bear (English cover by Jubyphonic)|Hard| Somewhat edgy Lyrics|
 | [Failure Girl](https://youtu.be/Myh3uW8KhAw) | Kairiki Bear (English cover by Jubyphonic) | Hard | |
 | [Lemon](https://youtu.be/ZXvY6NMoc78) | Kenshi Yonezu (English cover by Jubyphonic) | Hard | |
 | [My R](https://youtu.be/AOV2c0TiPpI) | Kurage (English cover by Rachie) | Hard | Contains references to suicide |
