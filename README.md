@@ -1,6 +1,7 @@
 # Steno Hero Songs
 Various songs I have made lrc files for. I used [wavelyric](https://timothyaveni.com/wavelyric/) for all of these.
 | YouTube Link | Artist | Difficulty | Notes |
+| ----------------------- | ------------------------- | ----- | ------- |
 | [Ode To The Mets](https://youtu.be/LNq4xox99HY) | The Strokes | Easy | |
 | [New Year's Day](https://youtu.be/vdLuk2Agamk) | U2 | Easy | Not a lot of vocals|
 | [Sunday Bloody Sunday](https://youtu.be/CkeDjLZMRRk) | U2 | Easy | [Bloody Sunday](https://en.wikipedia.org/wiki/Bloody_Sunday_(1972)) |
