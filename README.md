@@ -11,6 +11,7 @@ Various songs I have made lrc files for. I used [wavelyric](https://timothyaveni
 | [Don't Look Back in Anger](https://youtu.be/cmpRLQZkTb8) | Oasis | Normal ||
 | [She's Electric](https://youtu.be/h9JZWhjQDvc) | Oasis | Normal ||
 | [Wonderwall](https://youtu.be/sYffFEIAzdE) | Oasis | Normal ||
+| [Drop Pop Candy](https://youtu.be/Kzf-LbRaemA) | Reol (English cover by Jubyphonic and Rachie) | Normal ||
 | [Ikanaide](https://youtu.be/fSCwqCsSK1g) | Sohta (English cover by Jubyphonic) | Normal ||
 | [Good Years](https://youtu.be/EB32NhsQGJA) | ZAYAN | Normal ||
 | [Yonjuunana](https://youtu.be/IFsV8_2Mzsc)|Mikito-P (English cover by Jubyphonic| Normal||
