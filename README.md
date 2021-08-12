@@ -5,7 +5,8 @@ Various songs I have made lrc files for. I used [wavelyric](https://timothyaveni
 | [Ode To The Mets](https://youtu.be/LNq4xox99HY) | The Strokes | Easy | |
 | [New Year's Day](https://youtu.be/vdLuk2Agamk) | U2 | Easy | Not a lot of vocals|
 | [Sunday Bloody Sunday](https://youtu.be/CkeDjLZMRRk) | U2 | Easy | [Bloody Sunday](https://en.wikipedia.org/wiki/Bloody_Sunday_(1972)) |
-| [Love Trial](https://youtu.be/68wFpO8oeM4) | 40meterP (English cover by Jubyphonic | Normal ||
+| [Love Trial](https://youtu.be/68wFpO8oeM4) | 40meterP (English cover by Jubyphonic) | Normal ||
+| [Feel Good Inc.](https://www.youtu.be/NxxjLD2pmlk) | Gorillaz | Normal | Some swearing |
 | [Additional Memory](https://youtu.be/2MdItMhbz_Y) | Jin (English cover by Jubyphonic) | Normal ||
 | [Sarishinohara](https://youtu.be/0xBIJdsWLdc) | Mkikito-P (English cover by Rachie) | Normal ||
 | [Don't Look Back in Anger](https://youtu.be/cmpRLQZkTb8) | Oasis | Normal ||
