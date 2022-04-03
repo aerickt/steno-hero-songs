@@ -18,6 +18,7 @@ Various songs I have made lrc files for. I used [wavelyric](https://timothyaveni
 | [Yonjuunana](https://youtu.be/IFsV8_2Mzsc)|Mikito-P (English cover by Jubyphonic| Normal||
 | [Patchwork Staccato](https://youtu.be/elC2uKfEKbg)|Toa (Cover by Jubyphonic)| Normal||
 | [Charles](https://youtu.be/-vOGY-XnTfM) | Balloon (English cover by Jubyphonic | Hard | |
+| [Permission To Dance](https://youtu.be/X680ScXoCT0) | BTS | Hard | |
 | [Echo](https://youtu.be/OMRj5zplvBM) | Gumi | Hard | Created by KawaneRio#8706 |
 | [Lost Time Memory](https://youtu.be/LKrP_fu4m0s) | Jin (English cover by Jubyphonic) | Hard | |
 | [Never Lost word](https://youtu.be/w_FjPxJF0oc) | Jin (English cover by Jubyphonic) | Hard | |
