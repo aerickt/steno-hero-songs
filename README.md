@@ -15,6 +15,7 @@ Various songs I have made lrc files for. I used [wavelyric](https://timothyaveni
 | [Wonderwall](https://youtu.be/sYffFEIAzdE) | Oasis | Normal ||
 | [Drop Pop Candy](https://youtu.be/Kzf-LbRaemA) | Reol (English cover by Jubyphonic and Rachie) | Normal ||
 | [Ikanaide](https://youtu.be/fSCwqCsSK1g) | Sohta (English cover by Jubyphonic) | Normal ||
+| [You're Gonna Go Far, Kid](https://youtu.be/weqK155M_4o) | The Offspring | Normal | Contains a few f-bombs |
 | [Patchwork Staccato](https://youtu.be/elC2uKfEKbg) | Toa (Cover by Jubyphonic)| Normal ||
 | [Beautiful Day](https://youtu.be/S85ceVI4mfg) | U2 | Normal | |
 | [Good Years](https://youtu.be/EB32NhsQGJA) | ZAYAN | Normal ||
@@ -30,7 +31,7 @@ Various songs I have made lrc files for. I used [wavelyric](https://timothyaveni
 | [My R](https://youtu.be/AOV2c0TiPpI) | Kurage (English cover by Rachie) | Hard | Contains references to suicide |
 | [Women Like Me](https://youtu.be/oOs8g8TIKrQ) | Little Mix, Ft. Nicki Minaj | Hard | Contains some swearing |
 | [Tokyo Teddy Bear](https://youtu.be/MW2lEOvFrBE) | Neru (English cover by Jubyphonic | Hard ||
-| [Lost One's Weeping](https://youtu.be/nZHXSN6lEEw) | Neru (English cover by Jubyphonic) | Hard | Lyrics reference depression |
+| [Lost One's Weeping](https://youtu.be/nZHXSN6lEEw) | Neru (English cover by Jubyphonic) | Hard | Reference depression |
 | [Bloom and Cry Roaring Flower](https://youtu.be/paYGk-CxRxM) | Overidea (English cover by Jubyphonic) | Hard | |
 | [Lone Digger](https://youtu.be/UbQgXeY_zi4) | Caravan Palace | Very Hard | Music video is slightly NSFW |
 | [Outer Science](https://youtu.be/-PgOrF3zD7o) | Jin (English cover by Jubyphonic) | Very Hard | Slightly gorey lyrics |
