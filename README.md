@@ -1,5 +1,7 @@
 # Steno Hero Songs
+
 Various songs I have made lrc files for. I used [wavelyric](https://timothyaveni.com/wavelyric/) for all of these.
+
 | YouTube Link | Artist | Difficulty | Notes |
 | ----------------------- | ------------------------- | ----- | ------- |
 | [Ode To The Mets](https://youtu.be/LNq4xox99HY) | The Strokes | Easy | |
@@ -21,6 +23,7 @@ Various songs I have made lrc files for. I used [wavelyric](https://timothyaveni
 | [Good Years](https://youtu.be/EB32NhsQGJA) | ZAYAN | Normal ||
 | [Charles](https://youtu.be/-vOGY-XnTfM) | Balloon (English cover by Jubyphonic) | Hard | |
 | [Charles](https://youtu.be/k5Pu_RnH_vM) | Balloon (English cover by Rachie) | Hard | |
+| [Idol](https://youtu.be/Vo6OdQfo1xU) | YOASOBI (English cover by Rachie) | Hard | |
 | [Permission To Dance](https://youtu.be/X680ScXoCT0) | BTS | Hard | |
 | [Echo](https://youtu.be/OMRj5zplvBM) | Gumi | Hard | Created by KawaneRio#8706 |
 | [Lost Time Memory](https://youtu.be/LKrP_fu4m0s) | Jin (English cover by Jubyphonic) | Hard | |
